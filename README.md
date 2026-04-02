@@ -1,7 +1,7 @@
-Final Exam Project
-Student Name: Sherika Fayson
-Course: SDC205
-Date: 4/1/26
+Final Performance Assessment  
+Student Name: Sherika Fayson  
+Course: SDC205  
+Date: 4/1/26  
 
 --------------------------------------------------
 
